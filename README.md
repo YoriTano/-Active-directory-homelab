@@ -46,7 +46,6 @@ A Windows Server domain controller was configured with Active Directory Domain S
 
 
 ### Server Infrastructure Dashboard
-![Server Infrastructure Dashboard](Environment%20Setup.png)
 
 ---
 
