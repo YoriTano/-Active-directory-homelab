@@ -1,6 +1,6 @@
 # -Active Directory IAM Lab (User Lifecycle, RBAC &amp; Access Control)
 
-# Windows Server 2022 - Active Directory Domain Services (AD DS) Environment Setup
+# Windows Server 2025 - Active Directory Domain Services (AD DS) Environment Setup
 
 This repository documents the step-by-step installation, deployment, and hierarchical configuration of a Windows Server 2022 environment. The project showcases the implementation of Active Directory Domain Services (AD DS), core networking roles (DNS, DHCP, IIS, Remote Access), Organizational Unit (OU) design, and Group Policy Management.
 
