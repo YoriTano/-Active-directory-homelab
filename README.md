@@ -18,7 +18,7 @@ This repository documents the step-by-step installation, deployment, and hierarc
 ### 1. Active Directory Role Installation
 The deployment initiated by utilizing the **Add Roles and Features Wizard** within Server Manager to install **Active Directory Domain Services**. This foundational step copies the necessary binaries to the server before promotion.
 
-![AD DS Role Selection](AD Install_WinSVR.png)
+![AD DS Role Selection](AD/Install_WinSVR.png)
 
 ### 2. Forest Creation & Domain Controller Promotion
 Following the binary installation, the server was promoted to a Domain Controller. A new Active Directory forest was provisioned with the root domain name configured as `ECollins.local`.
